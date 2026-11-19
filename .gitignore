@@ -1,0 +1,13 @@
+# Obsidian local state, plugins, caches, and credentials
+.obsidian/
+
+# Claudian local plugin settings and environment variables
+.claudian/
+
+# Temporary clone / download folders
+_tmp_*/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini

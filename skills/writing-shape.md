@@ -1,16 +1,17 @@
 ---
 name: writing-shape
-description: "基于完整阅读过的素材，按读者认知和文章立意逐段塑造正文。"
+category: 写作与教学
+description: 基于完整阅读过的素材，按读者认知和文章立意逐段塑造正文。
 tags:
   - skill
   - writing
   - editing
   - structure
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/in-progress/writing-shape"
+repo: https://github.com/mattpocock/skills
+subpath: skills/in-progress/writing-shape
 requires:
-  - "原始素材与可写入的文章文档"
-reviewed: false
+  - 原始素材与可写入的文章文档
+reviewed: true
 added: 2026-11-23
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: library-skills
+category: Agent编排
 description: 从已安装的依赖包发现代理技能，并管理项目中的技能链接。
 tags:
   - skill

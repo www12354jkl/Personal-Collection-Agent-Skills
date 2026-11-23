@@ -1,17 +1,18 @@
 ---
 name: retro
-description: "复盘一次编程会话，把观察转成可落实的项目或代理环境改进。"
+category: Agent编排
+description: 复盘一次编程会话，把观察转成可落实的项目或代理环境改进。
 tags:
   - skill
   - agent
   - retrospective
   - workflow
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/retro"
-install_cmd: "npx skills@latest add mattpocock/skills --skill retro"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/retro
+install_cmd: npx skills@latest add mattpocock/skills --skill retro
 requires:
-  - "能读取当前会话和项目上下文的 Agent"
-reviewed: false
+  - 能读取当前会话和项目上下文的 Agent
+reviewed: true
 added: 2026-11-23
 ---
 

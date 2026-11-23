@@ -1,5 +1,6 @@
 ---
 name: git-guardrails-claude-code
+category: 工程与架构
 description: 为 Claude Code 配置 Git 命令拦截钩子，降低误推送或误清理工作树的风险。
 tags:
   - skill

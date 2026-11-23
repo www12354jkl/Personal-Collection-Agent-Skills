@@ -1,18 +1,19 @@
 ---
 name: wayfinder
-description: "为跨多个会话的大目标建立决策地图，逐项理清未知问题与依赖。"
+category: 规划与需求
+description: 为跨多个会话的大目标建立决策地图，逐项理清未知问题与依赖。
 tags:
   - skill
   - planning
   - decision
   - issue-tracker
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/wayfinder"
-install_cmd: "npx skills@latest add mattpocock/skills --skill wayfinder"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/wayfinder
+install_cmd: npx skills@latest add mattpocock/skills --skill wayfinder
 requires:
-  - "项目任务追踪器"
-  - "可用本地 Markdown"
-reviewed: false
+  - 项目任务追踪器
+  - 可用本地 Markdown
+reviewed: true
 added: 2026-11-23
 ---
 

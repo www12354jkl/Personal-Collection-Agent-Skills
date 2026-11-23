@@ -1,5 +1,6 @@
 ---
 name: chief-of-staff
+category: Agent编排
 description: 在一个长期会话中协调子代理推进目标，并持续积累项目上下文。
 tags:
   - skill

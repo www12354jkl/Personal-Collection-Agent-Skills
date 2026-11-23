@@ -1,5 +1,6 @@
 ---
 name: domain-modeling
+category: 规划与需求
 description: 在设计过程中明确领域术语、业务规则和架构决策，并写入项目文档。
 tags:
   - skill

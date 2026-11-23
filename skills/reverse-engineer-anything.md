@@ -1,19 +1,20 @@
 ---
 name: reverse-engineer-anything
-description: "用 REA 检查已发布的软件、包或二进制文件，为行为说明和版本对比提供证据。"
+category: 工程与架构
+description: 用 REA 检查已发布的软件、包或二进制文件，为行为说明和版本对比提供证据。
 tags:
   - skill
   - reverse-engineering
   - diagnostics
   - analysis
-repo: "https://github.com/morluto/rea"
-subpath: ".agents/skills/reverse-engineer-anything"
+repo: https://github.com/morluto/rea
+subpath: .agents/skills/reverse-engineer-anything
 version: "37"
-install_cmd: "npx skills add morluto/rea --skill reverse-engineer-anything"
+install_cmd: npx skills add morluto/rea --skill reverse-engineer-anything
 requires:
-  - "REA CLI 或 MCP"
-  - "按目标格式配置分析工具"
-reviewed: false
+  - REA CLI 或 MCP
+  - 按目标格式配置分析工具
+reviewed: true
 added: 2026-11-23
 ---
 

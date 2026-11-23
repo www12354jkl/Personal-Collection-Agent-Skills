@@ -1,5 +1,6 @@
 ---
 name: ask-matt
+category: 规划与需求
 description: 根据项目现状推荐 Matt Pocock 技能集中的下一步，适合不确定该先澄清、做原型还是拆任务时。
 tags:
   - skill

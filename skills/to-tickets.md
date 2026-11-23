@@ -1,17 +1,18 @@
 ---
 name: to-tickets
-description: "将计划或规格拆成可端到端验证的任务，明确每项任务的阻塞关系。"
+category: 规划与需求
+description: 将计划或规格拆成可端到端验证的任务，明确每项任务的阻塞关系。
 tags:
   - skill
   - planning
   - issue-tracker
   - dependency
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/to-tickets"
-install_cmd: "npx skills@latest add mattpocock/skills --skill to-tickets"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/to-tickets
+install_cmd: npx skills@latest add mattpocock/skills --skill to-tickets
 requires:
-  - "已配置的项目任务追踪器"
-reviewed: false
+  - 已配置的项目任务追踪器
+reviewed: true
 added: 2026-11-23
 ---
 

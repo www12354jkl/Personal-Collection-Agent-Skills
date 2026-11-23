@@ -1,16 +1,17 @@
 ---
 name: writing-fragments
-description: "通过问答捕捉可用的写作片段，并持续积累在一份 Markdown 稿件中。"
+category: 写作与教学
+description: 通过问答捕捉可用的写作片段，并持续积累在一份 Markdown 稿件中。
 tags:
   - skill
   - writing
   - brainstorming
   - interview
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/in-progress/writing-fragments"
+repo: https://github.com/mattpocock/skills
+subpath: skills/in-progress/writing-fragments
 requires:
-  - "可写入的 Markdown 素材稿"
-reviewed: false
+  - 可写入的 Markdown 素材稿
+reviewed: true
 added: 2026-11-23
 ---
 

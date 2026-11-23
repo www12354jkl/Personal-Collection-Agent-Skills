@@ -1,5 +1,6 @@
 ---
 name: setup-pre-commit
+category: 工程与架构
 description: 给前端或 Node.js 项目配置提交前格式化、类型检查和测试。
 tags:
   - skill

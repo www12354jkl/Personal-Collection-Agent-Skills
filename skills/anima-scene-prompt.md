@@ -1,5 +1,6 @@
 ---
 name: anima-scene-prompt
+category: 图像与视频
 description: 为 Anima 编写纯场景、环境背景或地图美术提示词，适合画面以空间为主的任务。
 tags:
   - skill

@@ -1,5 +1,6 @@
 ---
 name: implement
+category: 工程与架构
 description: 从现有规格或任务单进入实现，串联代码修改、测试与审查。
 tags:
   - skill

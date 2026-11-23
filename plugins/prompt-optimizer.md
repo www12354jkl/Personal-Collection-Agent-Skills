@@ -2,6 +2,7 @@
 name: prompt-optimizer
 aliases:
   - 提示词优化器
+category: 插件与工具
 description: 开源 AI 提示词优化工具与 MCP 服务，支持系统/用户提示词迭代优化、变量模板复用、多模型同题竞技场对比、文生图/图生图提示词工作区，提供 Web 应用、桌面客户端、Chrome 浏览器插件、Docker 部署及 MCP Server 接入。需要系统性优化与评测 Prompt 或为客户端挂载提示词优化 MCP 工具时使用。
 tags:
   - plugin

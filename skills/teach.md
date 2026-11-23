@@ -1,18 +1,19 @@
 ---
 name: teach
-description: "把一个主题展开成跨会话的学习过程，保留主题目标、参考资料和学习记录。"
+category: 写作与教学
+description: 把一个主题展开成跨会话的学习过程，保留主题目标、参考资料和学习记录。
 tags:
   - skill
   - education
   - documentation
   - learning
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/productivity/teach"
-install_cmd: "npx skills@latest add mattpocock/skills --skill teach"
+repo: https://github.com/mattpocock/skills
+subpath: skills/productivity/teach
+install_cmd: npx skills@latest add mattpocock/skills --skill teach
 requires:
-  - "可写入的学习工作区"
-  - "浏览器可打开 HTML 课程"
-reviewed: false
+  - 可写入的学习工作区
+  - 浏览器可打开 HTML 课程
+reviewed: true
 added: 2026-11-23
 ---
 

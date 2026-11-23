@@ -1,20 +1,21 @@
 ---
 name: vox-director
-description: "把主题、口播素材或参考照片制作成带旁白、字幕与音乐的动态纸质拼贴视频。"
+category: 图像与视频
+description: 把主题、口播素材或参考照片制作成带旁白、字幕与音乐的动态纸质拼贴视频。
 tags:
   - skill
   - video
   - motion
   - ffmpeg
-repo: "https://github.com/Alisa0808/vox-director"
-subpath: "."
-ref: "6a85a7c341610442a6a5b1885e6e0217ab82a11f"
-version: "1.0.0"
-install_cmd: "git clone https://github.com/Alisa0808/vox-director.git"
+repo: https://github.com/Alisa0808/vox-director
+subpath: .
+ref: 6a85a7c341610442a6a5b1885e6e0217ab82a11f
+version: 1.0.0
+install_cmd: git clone https://github.com/Alisa0808/vox-director.git
 requires:
-  - "ffmpeg、ffprobe 与 Atlas Cloud API Key"
-  - "Python 3 与 Pillow（字幕和叠加层）"
-reviewed: false
+  - ffmpeg、ffprobe 与 Atlas Cloud API Key
+  - Python 3 与 Pillow（字幕和叠加层）
+reviewed: true
 added: 2026-11-23
 ---
 

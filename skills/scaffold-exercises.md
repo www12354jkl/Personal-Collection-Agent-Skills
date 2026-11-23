@@ -1,16 +1,17 @@
 ---
 name: scaffold-exercises
-description: "为编程课程建立分节的练习目录，生成问题、解答和讲解文件。"
+category: 写作与教学
+description: 为编程课程建立分节的练习目录，生成问题、解答和讲解文件。
 tags:
   - skill
   - education
   - scaffolding
   - typescript
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/misc/scaffold-exercises"
+repo: https://github.com/mattpocock/skills
+subpath: skills/misc/scaffold-exercises
 requires:
-  - "目标课程仓库及其 lint 命令"
-reviewed: false
+  - 目标课程仓库及其 lint 命令
+reviewed: true
 added: 2026-11-23
 ---
 

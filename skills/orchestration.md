@@ -1,17 +1,18 @@
 ---
 name: orchestration
-description: "用 Orca 工作代理分派任务并收结果，适合需要独立工作区或不同代理运行时的协作。"
+category: Agent编排
+description: 用 Orca 工作代理分派任务并收结果，适合需要独立工作区或不同代理运行时的协作。
 tags:
   - skill
   - orca
   - agent
   - orchestration
-repo: "https://github.com/stablyai/orca"
-subpath: "skills/orchestration"
-install_cmd: "npx skills add stablyai/orca --skill orchestration"
+repo: https://github.com/stablyai/orca
+subpath: skills/orchestration
+install_cmd: npx skills add stablyai/orca --skill orchestration
 requires:
-  - "Orca CLI 与已配置的工作代理"
-reviewed: false
+  - Orca CLI 与已配置的工作代理
+reviewed: true
 added: 2026-11-23
 ---
 

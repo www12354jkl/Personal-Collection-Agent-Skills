@@ -1,5 +1,6 @@
 ---
 name: grill-me
+category: 规划与需求
 description: 用一轮轮问答检验一个计划或设计，适合没有项目文档也能展开的讨论。
 tags:
   - skill

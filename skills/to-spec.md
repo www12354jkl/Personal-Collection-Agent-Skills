@@ -1,17 +1,18 @@
 ---
 name: to-spec
-description: "把已有对话和代码上下文综合成工程规格，适合需求已形成共识的阶段。"
+category: 规划与需求
+description: 把已有对话和代码上下文综合成工程规格，适合需求已形成共识的阶段。
 tags:
   - skill
   - planning
   - specification
   - issue-tracker
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/to-spec"
-install_cmd: "npx skills@latest add mattpocock/skills --skill to-spec"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/to-spec
+install_cmd: npx skills@latest add mattpocock/skills --skill to-spec
 requires:
-  - "项目任务追踪器与分流标签配置"
-reviewed: false
+  - 项目任务追踪器与分流标签配置
+reviewed: true
 added: 2026-11-23
 ---
 

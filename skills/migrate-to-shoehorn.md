@@ -1,16 +1,17 @@
 ---
 name: migrate-to-shoehorn
-description: "把 TypeScript 测试中的类型断言迁移到 @total-typescript/shoehorn，便于构造部分测试数据。"
+category: 工程与架构
+description: 把 TypeScript 测试中的类型断言迁移到 @total-typescript/shoehorn，便于构造部分测试数据。
 tags:
   - skill
   - typescript
   - testing
   - migration
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/misc/migrate-to-shoehorn"
+repo: https://github.com/mattpocock/skills
+subpath: skills/misc/migrate-to-shoehorn
 requires:
-  - "TypeScript 测试项目与 @total-typescript/shoehorn"
-reviewed: false
+  - TypeScript 测试项目与 @total-typescript/shoehorn
+reviewed: true
 added: 2026-11-23
 ---
 

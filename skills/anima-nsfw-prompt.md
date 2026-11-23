@@ -1,5 +1,6 @@
 ---
 name: anima-nsfw-prompt
+category: 图像与视频
 description: 给 Anima 主提示词工作流补充成人向画面的叙事分析与视觉构思方法。
 tags:
   - skill

@@ -1,17 +1,18 @@
 ---
 name: orca-cli
-description: "通过 Orca CLI 操作工作树、终端、仓库和内置浏览器。"
+category: Agent编排
+description: 通过 Orca CLI 操作工作树、终端、仓库和内置浏览器。
 tags:
   - skill
   - orca
   - git
   - worktree
-repo: "https://github.com/stablyai/orca"
-subpath: "skills/orca-cli"
-install_cmd: "npx skills add stablyai/orca --skill orca-cli"
+repo: https://github.com/stablyai/orca
+subpath: skills/orca-cli
+install_cmd: npx skills add stablyai/orca --skill orca-cli
 requires:
-  - "Orca 桌面应用与匹配版本的 Orca CLI"
-reviewed: false
+  - Orca 桌面应用与匹配版本的 Orca CLI
+reviewed: true
 added: 2026-11-23
 ---
 

@@ -1,16 +1,17 @@
 ---
 name: loop-me
-description: "把反复发生的活动梳理成可执行的工作流规格。"
+category: 规划与需求
+description: 把反复发生的活动梳理成可执行的工作流规格。
 tags:
   - skill
   - planning
   - workflow
   - interview
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/in-progress/loop-me"
+repo: https://github.com/mattpocock/skills
+subpath: skills/in-progress/loop-me
 requires:
-  - "同源技能 grilling"
-reviewed: false
+  - 同源技能 grilling
+reviewed: true
 added: 2026-11-23
 ---
 

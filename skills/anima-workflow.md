@@ -1,5 +1,6 @@
 ---
 name: anima-workflow
+category: 图像与视频
 description: 为 Anima 批量生成、对比测试、读图审计和漫画交付提供运行约定。
 tags:
   - skill

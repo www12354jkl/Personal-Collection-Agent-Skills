@@ -1,18 +1,19 @@
 ---
 name: wizard
-description: "把需要人工完成的配置、授权或迁移步骤写成交互式 Bash 向导。"
+category: 系统与运维
+description: 把需要人工完成的配置、授权或迁移步骤写成交互式 Bash 向导。
 tags:
   - skill
   - bash
   - automation
   - provisioning
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/wizard"
-install_cmd: "npx skills@latest add mattpocock/skills --skill wizard"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/wizard
+install_cmd: npx skills@latest add mattpocock/skills --skill wizard
 requires:
-  - "Bash"
-  - "涉及 GitHub 配置时需要 gh CLI"
-reviewed: false
+  - Bash
+  - 涉及 GitHub 配置时需要 gh CLI
+reviewed: true
 added: 2026-11-23
 ---
 

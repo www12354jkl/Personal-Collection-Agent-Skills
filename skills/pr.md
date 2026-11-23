@@ -1,17 +1,18 @@
 ---
 name: pr
-description: "按固定结构撰写 Pull Request 正文，说明改动、验证证据、合并风险和回退方式。"
+category: 工程与架构
+description: 按固定结构撰写 Pull Request 正文，说明改动、验证证据、合并风险和回退方式。
 tags:
   - skill
   - git
   - pull-request
   - documentation
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/pr"
-install_cmd: "npx skills@latest add mattpocock/skills --skill pr"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/pr
+install_cmd: npx skills@latest add mattpocock/skills --skill pr
 requires:
-  - "Git diff 与项目验证记录"
-reviewed: false
+  - Git diff 与项目验证记录
+reviewed: true
 added: 2026-11-23
 ---
 

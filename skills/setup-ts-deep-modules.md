@@ -1,16 +1,17 @@
 ---
 name: setup-ts-deep-modules
-description: "用 dependency-cruiser 约束 TypeScript 包的导入边界，将公开入口作为包间依赖面。"
+category: 工程与架构
+description: 用 dependency-cruiser 约束 TypeScript 包的导入边界，将公开入口作为包间依赖面。
 tags:
   - skill
   - typescript
   - architecture
   - lint
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/in-progress/setup-ts-deep-modules"
+repo: https://github.com/mattpocock/skills
+subpath: skills/in-progress/setup-ts-deep-modules
 requires:
-  - "TypeScript 项目、dependency-cruiser 和同源技能 codebase-design"
-reviewed: false
+  - TypeScript 项目、dependency-cruiser 和同源技能 codebase-design
+reviewed: true
 added: 2026-11-23
 ---
 

@@ -3,6 +3,7 @@ name: antigrative-dashboard
 aliases:
   - antigravity-pulse
   - Antigrative Dashboard
+category: 插件与工具
 description: 在 Antigravity 模型选择器旁实时展示生成速率（tok/s）、缓存命中率、上下文占用与 5 小时 / 周共享额度，支持桌面 App、独立 IDE 与 CLI 状态栏，并支持中英文切换。需要监控 Antigravity Token 吞吐量与额度消耗时使用。
 tags:
   - plugin

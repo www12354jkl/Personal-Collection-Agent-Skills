@@ -1,17 +1,18 @@
 ---
 name: release
-description: "按 Memos 项目流程制作版本、跟踪发布任务并核对实际交付产物。"
+category: 工程与架构
+description: 按 Memos 项目流程制作版本、跟踪发布任务并核对实际交付产物。
 tags:
   - skill
   - memos
   - release
   - ci
-repo: "https://github.com/usememos/memos"
-subpath: ".agents/skills/release"
-version: "1.0.0"
+repo: https://github.com/usememos/memos
+subpath: .agents/skills/release
+version: 1.0.0
 requires:
-  - "Memos 项目、Git 与 GitHub 发布权限"
-reviewed: false
+  - Memos 项目、Git 与 GitHub 发布权限
+reviewed: true
 added: 2026-11-23
 ---
 

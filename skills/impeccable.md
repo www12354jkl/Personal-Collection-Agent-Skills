@@ -1,5 +1,6 @@
 ---
 name: impeccable
+category: 前端与设计
 description: 为编码 Agent 提供前端设计词汇与审校体系，支持通过 24 个设计指令（如 polish、bolder、quieter、critique、audit、harden、live）优化页面、排查 AI 模板味（AI slop）并生成 PRODUCT.md / DESIGN.md 设计规范。用于设计、重塑或审查前端界面与 UI 组件时使用（非纯后端任务）。
 tags:
   - skill

@@ -1,17 +1,18 @@
 ---
 name: to-questionnaire
-description: "把缺少的信息写成问卷，交给掌握实际情况的人填写或在会议中共同梳理。"
+category: 规划与需求
+description: 把缺少的信息写成问卷，交给掌握实际情况的人填写或在会议中共同梳理。
 tags:
   - skill
   - planning
   - requirements
   - documentation
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/productivity/to-questionnaire"
-install_cmd: "npx skills@latest add mattpocock/skills --skill to-questionnaire"
+repo: https://github.com/mattpocock/skills
+subpath: skills/productivity/to-questionnaire
+install_cmd: npx skills@latest add mattpocock/skills --skill to-questionnaire
 requires:
-  - "可写入的项目工作区"
-reviewed: false
+  - 可写入的项目工作区
+reviewed: true
 added: 2026-11-23
 ---
 

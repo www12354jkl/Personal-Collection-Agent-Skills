@@ -1,18 +1,19 @@
 ---
 name: win11-storage-governance
-description: "制定 Windows 11 系统盘清理、开发缓存迁移和长效维护方案。"
+category: 系统与运维
+description: 制定 Windows 11 系统盘清理、开发缓存迁移和长效维护方案。
 tags:
   - skill
   - windows
   - storage
   - maintenance
-repo: "https://github.com/Nongfsq/win11-storage-governance-kit"
-subpath: "skills/win11-storage-governance"
-version: "0.1.0"
+repo: https://github.com/Nongfsq/win11-storage-governance-kit
+subpath: skills/win11-storage-governance
+version: 0.1.0
 requires:
-  - "Windows 11"
-  - "运行系统检查时使用 PowerShell"
-reviewed: false
+  - Windows 11
+  - 运行系统检查时使用 PowerShell
+reviewed: true
 added: 2026-11-23
 ---
 

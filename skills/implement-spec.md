@@ -1,5 +1,6 @@
 ---
 name: implement-spec
+category: 工程与架构
 description: 按任务依赖推进整份工程规格，并将各项改动集成到一条分支。
 tags:
   - skill

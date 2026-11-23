@@ -1,5 +1,6 @@
 ---
 name: anima-doujin-plan
+category: 图像与视频
 description: 为长篇漫画或多页图像叙事规划剧本和分镜，明确每页事件、镜头和节奏。
 tags:
   - skill

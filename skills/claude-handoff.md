@@ -1,5 +1,6 @@
 ---
 name: claude-handoff
+category: Agent编排
 description: 把当前会话整理成交接摘要，并交给当前目录下的新 Claude Code 后台代理。
 tags:
   - skill

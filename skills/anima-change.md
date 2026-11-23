@@ -1,5 +1,6 @@
 ---
 name: anima-change
+category: 图像与视频
 description: 为用户点名的关键画面推导一个可落进构图的记忆点，适用于长篇分镜或对比跑批。
 tags:
   - skill

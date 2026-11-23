@@ -1,5 +1,6 @@
 ---
 name: codebase-design
+category: 工程与架构
 description: 用深模块原则设计和重构代码，包括接口、接缝、适配器和测试面。
 tags:
   - skill

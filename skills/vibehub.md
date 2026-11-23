@@ -1,18 +1,19 @@
 ---
 name: vibehub
-description: "在编程协作中识别准确的产品、界面和开发术语，并为术语附上 VibeHub 解释链接。"
+category: 前端与设计
+description: 在编程协作中识别准确的产品、界面和开发术语，并为术语附上 VibeHub 解释链接。
 tags:
   - skill
   - frontend
   - terminology
   - documentation
-repo: "https://github.com/oil-oil/vibe-hub-skill"
-subpath: "skills/vibehub"
-install_cmd: "npx skills add oil-oil/vibe-hub-skill"
+repo: https://github.com/oil-oil/vibe-hub-skill
+subpath: skills/vibehub
+install_cmd: npx skills add oil-oil/vibe-hub-skill
 requires:
-  - "Node.js（本地术语查找脚本）"
-  - "访问 VibeHub 术语站时需要网络"
-reviewed: false
+  - Node.js（本地术语查找脚本）
+  - 访问 VibeHub 术语站时需要网络
+reviewed: true
 added: 2026-11-23
 ---
 

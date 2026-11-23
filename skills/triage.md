@@ -1,17 +1,18 @@
 ---
 name: triage
-description: "按项目角色和状态分流 issue 或外部 Pull Request，补足后续实现所需的背景。"
+category: 规划与需求
+description: 按项目角色和状态分流 issue 或外部 Pull Request，补足后续实现所需的背景。
 tags:
   - skill
   - issue-tracker
   - git
   - workflow
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/triage"
-install_cmd: "npx skills@latest add mattpocock/skills --skill triage"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/triage
+install_cmd: npx skills@latest add mattpocock/skills --skill triage
 requires:
-  - "项目任务追踪器及标签规则"
-reviewed: false
+  - 项目任务追踪器及标签规则
+reviewed: true
 added: 2026-11-23
 ---
 

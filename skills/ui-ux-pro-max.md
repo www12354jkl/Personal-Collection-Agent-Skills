@@ -1,18 +1,19 @@
 ---
 name: ui-ux-pro-max
-description: "从本地设计资料库检索样式、配色、字体、图表和交互准则，用于界面设计与审查。"
+category: 前端与设计
+description: 从本地设计资料库检索样式、配色、字体、图表和交互准则，用于界面设计与审查。
 tags:
   - skill
   - ui-ux
   - accessibility
   - design-system
-repo: "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill"
-subpath: ".claude/skills/ui-ux-pro-max"
-install_cmd: "npx ui-ux-pro-max-cli init --ai codex"
+repo: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+subpath: .claude/skills/ui-ux-pro-max
+install_cmd: npx ui-ux-pro-max-cli init --ai codex
 requires:
-  - "Python 3（本地搜索）"
-  - "Node.js（使用官方 CLI 安装时）"
-reviewed: false
+  - Python 3（本地搜索）
+  - Node.js（使用官方 CLI 安装时）
+reviewed: true
 added: 2026-11-23
 ---
 

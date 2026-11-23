@@ -1,5 +1,6 @@
 ---
 name: vibestart
+category: 工程与架构
 description: 通过 vibestart-cli 自由组合经过 CI 验证的全栈 TypeScript 技术栈（React/Next/TanStack Start/Electron/Expo + Hono/Effect + Drizzle/Prisma + Better Auth + Vite+），并支持增量添加能力（add）、状态诊断（doctor）与保留业务修改的三方合并升级（upgrade）。用于创建新 TypeScript 项目或维护含 vibestart.jsonc 的工程时使用。
 tags:
   - skill
@@ -15,7 +16,7 @@ version: 0.2.4
 install_cmd: npx skills add VinkyDev/vibestart --skill vibestart
 requires:
   - Node.js >= 22.12.0
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

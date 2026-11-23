@@ -1,5 +1,6 @@
 ---
 name: grilling
+category: 规划与需求
 description: 把复杂设计整理成决策树，通过分轮提问逐步澄清依赖关系。
 tags:
   - skill

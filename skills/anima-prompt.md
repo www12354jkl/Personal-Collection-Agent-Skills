@@ -1,5 +1,6 @@
 ---
 name: anima-prompt
+category: 图像与视频
 description: 为 Anima 编写人物和叙事图像提示词，处理模板选择、人物一致性与 ComfyUI 参数。
 tags:
   - skill

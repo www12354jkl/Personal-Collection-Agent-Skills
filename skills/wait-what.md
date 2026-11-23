@@ -1,17 +1,18 @@
 ---
 name: wait-what
-description: "把刚才没讲清的进展重新解释一遍，补足上下文并统一术语。"
+category: 写作与教学
+description: 把刚才没讲清的进展重新解释一遍，补足上下文并统一术语。
 tags:
   - skill
   - communication
   - technical-english
   - agent
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/productivity/wait-what"
-install_cmd: "npx skills@latest add mattpocock/skills --skill wait-what"
+repo: https://github.com/mattpocock/skills
+subpath: skills/productivity/wait-what
+install_cmd: npx skills@latest add mattpocock/skills --skill wait-what
 requires:
-  - "可选的项目 GLOSSARY.md 或 GLOSSARY-MAP.md"
-reviewed: false
+  - 可选的项目 GLOSSARY.md 或 GLOSSARY-MAP.md
+reviewed: true
 added: 2026-11-23
 ---
 

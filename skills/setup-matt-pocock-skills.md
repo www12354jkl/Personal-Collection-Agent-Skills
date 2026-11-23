@@ -1,5 +1,6 @@
 ---
 name: setup-matt-pocock-skills
+category: Agent编排
 description: 为项目配置 Matt Pocock 工程技能依赖的任务追踪、分流标签和领域文档位置。
 tags:
   - skill

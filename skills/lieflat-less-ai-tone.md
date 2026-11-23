@@ -1,17 +1,18 @@
 ---
 name: lieflat-less-ai-tone
-description: "检测中文成稿中的模板化表达，提交修改建议，并按确认范围改写和复测。"
+category: 写作与教学
+description: 检测中文成稿中的模板化表达，提交修改建议，并按确认范围改写和复测。
 tags:
   - skill
   - writing
   - editing
   - lint
-repo: "https://github.com/larashero3-dotcom/lieflat-less-ai-tone"
-subpath: "."
-install_cmd: "npx skills add larashero3-dotcom/lieflat-less-ai-tone"
+repo: https://github.com/larashero3-dotcom/lieflat-less-ai-tone
+subpath: .
+install_cmd: npx skills add larashero3-dotcom/lieflat-less-ai-tone
 requires:
-  - "Python（用于检测与复测脚本）"
-reviewed: false
+  - Python（用于检测与复测脚本）
+reviewed: true
 added: 2026-11-23
 ---
 

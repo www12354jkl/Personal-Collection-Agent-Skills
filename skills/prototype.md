@@ -1,17 +1,18 @@
 ---
 name: prototype
-description: "针对一个尚无答案的设计问题，制作可运行、可丢弃的原型。"
+category: 前端与设计
+description: 针对一个尚无答案的设计问题，制作可运行、可丢弃的原型。
 tags:
   - skill
   - prototyping
   - ui-ux
   - testing
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/engineering/prototype"
-install_cmd: "npx skills@latest add mattpocock/skills --skill prototype"
+repo: https://github.com/mattpocock/skills
+subpath: skills/engineering/prototype
+install_cmd: npx skills@latest add mattpocock/skills --skill prototype
 requires:
-  - "项目现有前端环境，或可打开单页 HTML 的浏览器"
-reviewed: false
+  - 项目现有前端环境，或可打开单页 HTML 的浏览器
+reviewed: true
 added: 2026-11-23
 ---
 

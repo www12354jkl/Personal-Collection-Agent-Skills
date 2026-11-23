@@ -1,18 +1,19 @@
 ---
 name: orca-computer-use
-description: "通过 Orca 驱动原生应用或外部浏览器窗口，读取控件、执行交互并截图。"
+category: Agent编排
+description: 通过 Orca 驱动原生应用或外部浏览器窗口，读取控件、执行交互并截图。
 tags:
   - skill
   - orca
   - desktop
   - gui
-repo: "https://github.com/stablyai/orca"
-subpath: "skills/orca-computer-use"
-install_cmd: "npx skills add stablyai/orca --skill orca-computer-use"
+repo: https://github.com/stablyai/orca
+subpath: skills/orca-computer-use
+install_cmd: npx skills add stablyai/orca --skill orca-computer-use
 requires:
-  - "Orca CLI"
-  - "支持桌面控制的运行环境"
-reviewed: false
+  - Orca CLI
+  - 支持桌面控制的运行环境
+reviewed: true
 added: 2026-11-23
 ---
 

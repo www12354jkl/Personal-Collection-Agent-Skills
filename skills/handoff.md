@@ -1,5 +1,6 @@
 ---
 name: handoff
+category: Agent编排
 description: 把现有会话的背景和下一步整理成可供新代理接手的 Markdown 交接稿。
 tags:
   - skill

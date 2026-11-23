@@ -1,5 +1,6 @@
 ---
 name: asd-ste100
+category: 写作与教学
 description: 把容易误读的技术英文改写为简化技术英语，适合工具说明、错误消息和代理之间的指令。
 tags:
   - skill

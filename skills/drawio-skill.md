@@ -1,5 +1,6 @@
 ---
 name: drawio-skill
+category: 图表与文档
 description: 将自然语言、代码、Terraform/K8s、SQL、OpenAPI/AsyncAPI、Protobuf、GraphQL 等转换为可编辑的 .drawio 架构图，支持增量同步、多视图投影、CI 架构规则测试、白板转图及导出 HTML/PPTX/Mermaid。当需要生成或维护可编辑的 draw.io / diagrams.net 图表时使用。
 tags:
   - skill

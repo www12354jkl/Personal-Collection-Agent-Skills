@@ -1,16 +1,17 @@
 ---
 name: writing-beats
-description: "从已经收集好的材料中安排逐段推进的叙事节拍，适合交互式搭建文章主线。"
+category: 写作与教学
+description: 从已经收集好的材料中安排逐段推进的叙事节拍，适合交互式搭建文章主线。
 tags:
   - skill
   - writing
   - editing
   - interview
-repo: "https://github.com/mattpocock/skills"
-subpath: "skills/in-progress/writing-beats"
+repo: https://github.com/mattpocock/skills
+subpath: skills/in-progress/writing-beats
 requires:
-  - "已有的 Markdown 素材稿"
-reviewed: false
+  - 已有的 Markdown 素材稿
+reviewed: true
 added: 2026-11-23
 ---
 

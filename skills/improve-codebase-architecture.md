@@ -1,5 +1,6 @@
 ---
 name: improve-codebase-architecture
+category: 工程与架构
 description: 扫描代码库中的架构摩擦，把深模块重构机会整理成 HTML 报告。
 tags:
   - skill

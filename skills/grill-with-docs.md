@@ -1,5 +1,6 @@
 ---
 name: grill-with-docs
+category: 规划与需求
 description: 通过问答打磨已有项目中的计划，并把形成共识的术语与决策写进文档。
 tags:
   - skill

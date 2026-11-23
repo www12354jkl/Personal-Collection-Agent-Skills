@@ -3,6 +3,7 @@ name: remotion
 aliases:
   - remotion-best-practices
   - remotion-skills
+category: 图像与视频
 description: Remotion 官方视频编程生态与 13 个 Agent Skills 合集（含 remotion-best-practices、create、markup、studio、render、maps、captions、saas 等），帮助 Agent 用 React 代码编程式生成、预览与渲染视频、字幕和地图动画。需要在项目中用 React/Remotion 制作或渲染程序化视频时使用。
 tags:
   - skill
@@ -19,7 +20,7 @@ install_cmd: npx skills add remotion-dev/skills
 requires:
   - Node.js
   - React >= 16.8.0 (项目使用 Remotion 渲染视频时)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

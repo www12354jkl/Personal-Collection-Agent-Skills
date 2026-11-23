@@ -1,5 +1,6 @@
 ---
 name: design-taste-frontend
+category: 前端与设计
 description: 给营销页、作品集和已有网站改版提供前端设计与视觉审查流程。
 tags:
   - skill

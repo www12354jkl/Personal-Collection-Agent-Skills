@@ -1,18 +1,19 @@
 ---
 name: pdf
-description: "用 Poppler 和 Python 工具读取、制作、渲染并检查 PDF，适合对版面有要求的交付。"
+category: 图表与文档
+description: 用 Poppler 和 Python 工具读取、制作、渲染并检查 PDF，适合对版面有要求的交付。
 tags:
   - skill
   - document
   - pdf
   - rendering
-repo: "https://github.com/openai/skills"
-subpath: "skills/.curated/pdf"
-install_cmd: "$skill-installer pdf"
+repo: https://github.com/openai/skills
+subpath: skills/.curated/pdf
+install_cmd: $skill-installer pdf
 requires:
-  - "Poppler"
-  - "按任务使用 reportlab、pdfplumber 或 pypdf"
-reviewed: false
+  - Poppler
+  - 按任务使用 reportlab、pdfplumber 或 pypdf
+reviewed: true
 added: 2026-11-23
 ---
 

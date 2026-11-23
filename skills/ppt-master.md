@@ -1,5 +1,6 @@
 ---
 name: ppt-master
+category: 图表与文档
 description: 将文档、PDF、DOCX 或主题转换为原生可编辑的 PowerPoint（.pptx），支持原生形状、母版版式继承、数据驱动图表与表格、AI 生图/联网搜图、演讲备注语音旁白及套用已有 .pptx 模板。需要生成、美化、重构或套模板制作原生 PPTX 时使用。
 tags:
   - skill
@@ -17,7 +18,7 @@ requires:
   - Python 3.10 - 3.14
   - pip install -r requirements.txt
   - Pandoc (可选，仅转换 .doc/.odt/.rtf/.tex 等小众格式时需要)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

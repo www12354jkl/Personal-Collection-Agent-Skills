@@ -16,7 +16,7 @@ requires:
   - python3
   - draw.io desktop CLI (>=30 推荐, Windows 为 draw.io.exe)
   - graphviz (可选)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

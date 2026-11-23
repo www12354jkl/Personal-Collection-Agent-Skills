@@ -15,7 +15,7 @@ version: 3.2.0
 install_cmd: npx -y skills@latest add https://archify.si --skill archify
 requires:
   - Node.js (运行 bin/archify.mjs)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

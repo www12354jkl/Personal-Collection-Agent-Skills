@@ -15,7 +15,7 @@ version: 4.10.0
 install_cmd: npx impeccable install
 requires:
   - Node.js >= 18.19.0 (仅 npx 安装/CLI 时需要；Skill 运行使用内置或首次下载的二进制引擎)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

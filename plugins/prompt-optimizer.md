@@ -18,7 +18,7 @@ install_cmd: docker run -d -p 8081:80 --restart unless-stopped --name prompt-opt
 requires:
   - Docker (一键运行 Web + HTTP MCP 服务)
   - 或 Node.js 24 + pnpm 10.6.1 (本地构建运行 / stdio MCP)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 

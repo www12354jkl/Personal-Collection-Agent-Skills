@@ -19,7 +19,7 @@ install_cmd: python manage.py install
 requires:
   - Python 3.10+
   - Antigravity Desktop (2.21.1 - 2.33.0) / 独立 Antigravity IDE / CLI (Node.js 20+)
-reviewed: false
+reviewed: true
 added: 2026-11-19
 ---
 
